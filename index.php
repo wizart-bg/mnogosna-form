@@ -61,7 +61,7 @@ if (!empty($_GET['q'])) {
 <body>
 <div class="container">
     <div class="content">
-        <div class="title" title="Laragon">Laragon - дно</div>
+        <div class="title" title="Laragon">Laragon - днина</div>
 
         <div class="info"><br />
             <?php print($_SERVER['SERVER_SOFTWARE']); ?><br />
